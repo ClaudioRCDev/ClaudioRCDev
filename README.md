@@ -6,9 +6,9 @@ Technical Degree in Systems Analysis and Development (SENAI)
 ---
 
 ## About
-Focused on backend and systems development. I value clean code, solid fundamentals and practical solutions.
+Focused on software development across different areas, including backend, frontend and systems. I value clean code, solid fundamentals and practical solutions.
 
-Experience with modern web technologies and low-level programming, working across both Linux and Windows environments.
+Experience with modern web technologies and low-level programming, working across Linux and Windows environments.
 
 ---
 
