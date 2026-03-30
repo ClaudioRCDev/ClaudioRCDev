@@ -1,16 +1,37 @@
-## Hi there 👋
+# Claudio Roberto
 
-<!--
-**ClaudioRCDev/ClaudioRCDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science @ IFSP  
+Technical Degree in Systems Analysis and Development (SENAI)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+Focused on backend and systems development. I value clean code, solid fundamentals and practical solutions.
+
+Experience with modern web technologies and low-level programming, working across both Linux and Windows environments.
+
+---
+
+## Stack
+
+**Languages**  
+C · Java · TypeScript · PHP  
+
+**Frameworks**  
+Laravel · React · React Native  
+
+**Tools**  
+Git · GitHub  
+
+**Systems**  
+Linux (Ubuntu) · Windows  
+
+---
+
+## English
+Advanced  
+
+---
+
+## Contact
+GitHub: https://github.com/seu-usuario
