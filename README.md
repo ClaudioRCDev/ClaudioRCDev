@@ -35,3 +35,4 @@ Advanced
 
 ## Contact
 GitHub: https://github.com/ClaudioRCDev
+Email: claudiorobertojunior5@gmail.com
